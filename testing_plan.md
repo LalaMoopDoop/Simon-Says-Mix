@@ -1,3 +1,4 @@
+** Gabe Mason & Alania Prines ** 
 ## **Simon Says Test Plan**
 
 ### **1\. Boundary Cases**
