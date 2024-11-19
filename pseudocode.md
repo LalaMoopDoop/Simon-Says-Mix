@@ -1,3 +1,4 @@
+** Gabe Mason & Alania Prines 
 **Pseudocode Frame**
 
 	1\.	**Start**: Define the beginning of the process.

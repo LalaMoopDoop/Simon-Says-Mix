@@ -1,3 +1,4 @@
+** Gabe Mason & Alania Prines** 
 **User Stories and Acceptance Criterion Frame**
 
 **Title**: Start a new game   
